@@ -1,0 +1,34 @@
+.input_box{
+    width: 80%;
+    margin:0 auto;
+    height:100px;
+}
+
+#find{
+    width:80%;
+    height:50px;
+    float:left;
+}
+
+.submit{
+    float:left;
+    margin-left:30px;
+    width:100px;
+    height:50px;
+}
+
+ul{
+    width:80%;
+    margin: 0 auto;
+    list-style:none;
+}
+
+.job{
+    margin: 30px 30px;
+    padding: 10px;
+    border: medium solid gray;
+}
+
+table{
+    border: 1px solid gray;
+}
